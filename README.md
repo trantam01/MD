@@ -7,5 +7,5 @@ type in
 cd Downloads
 ```
 
-##4:image
+## 3. image:
 ![markdown](https://i.imgur.com/VwG4PXM.png)

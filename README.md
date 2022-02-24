@@ -14,9 +14,9 @@ cd Downloads
 [ypcloud](https://eip.ypcloud.com/zh_TW/)
 
 ## 5. _Italic text here_:
- **KPI**
- KPI
- ##6. table:
+1. **KPI**
+2. KPI
+## 6. table:
  |Name|Email|Address|      
 |----|-----|-------|      
 |John|john@example.com|Address1|

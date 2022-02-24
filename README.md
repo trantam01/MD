@@ -22,3 +22,7 @@ cd Downloads
  |Name|Email|Address|      
 |----|-----|-------|      
 |John|john@example.com|Address1|
+
+##7. gach ngang
+---
+***

@@ -1,7 +1,7 @@
 # test
 test github
 
-## 3. Open Terminal:
+## 2. Open Terminal:
 type in
 ```
 cd Downloads
